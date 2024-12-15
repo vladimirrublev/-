@@ -7,7 +7,7 @@
 
 ссылка на первую практику в github:
  
-https://github.com/Archangel15520/toib3
+https://github.com/vladimirrublev/ssslpr1/blob/main/README.md
 
 </details>
 
