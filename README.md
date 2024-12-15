@@ -18,11 +18,6 @@ https://github.com/vladimirrublev/ssslpr1/blob/main/README.md
 
 ссылка на вторую практику в github:
  
-https://github.com/Archangel15520/sssl2
-
-ссылка на работу в google colab:
-
-https://colab.research.google.com/drive/1ynWp6sP8uivpBwBmv1kqL7Ra6v75zpM4?usp=drive_link
 
 </details>
 
@@ -33,7 +28,6 @@ https://colab.research.google.com/drive/1ynWp6sP8uivpBwBmv1kqL7Ra6v75zpM4?usp=dr
 
 ссылка на третью практику в github:
  
-https://github.com/Archangel15520/sssl3/tree/main
 
 </details>
 
@@ -43,7 +37,6 @@ https://github.com/Archangel15520/sssl3/tree/main
   <summary>Нажмите, чтобы развернуть</summary>
 
 ссылка на четвертую практику в github:
- 
-https://github.com/Archangel15520/sssl4/tree/main
+
 
 </details>
