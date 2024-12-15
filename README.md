@@ -16,8 +16,8 @@ https://github.com/vladimirrublev/ssslpr1/blob/main/README.md
 <details>
   <summary>Нажмите, чтобы развернуть</summary>
 
-ссылка на вторую практику в github:
- 
+ссылка на вторую практику в google colab:
+ https://colab.research.google.com/drive/1CDJgNDffOmM-YXCuhJg1hbvFBB71ONAP#scrollTo=G2x2EAzEZaMm
 
 </details>
 
