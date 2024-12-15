@@ -27,7 +27,7 @@ https://github.com/vladimirrublev/ssslpr1/blob/main/README.md
   <summary>Нажмите, чтобы развернуть</summary>
 
 ссылка на третью практику в github:
- 
+ https://github.com/vladimirrublev/sssl3/blob/main/README.md
 
 </details>
 
